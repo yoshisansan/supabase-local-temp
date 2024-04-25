@@ -14,7 +14,7 @@ supabase stop --no-backup
 supabase start
 ```
 
-ログイン時、https://supabase.com/dashboard/account/tokensでトークン生成する必要あり
+ログイン時、https://supabase.com/dashboard/account/tokens でトークン生成する必要あり
 ```
 supabase login
 ```
